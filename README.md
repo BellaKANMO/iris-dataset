@@ -23,8 +23,13 @@ Each flower is described by four features (measured in centimeters):
 # Comprehension
 The .ipynb file is commented line by line as much as possible with comments afer each important cell
 
+# Author
+👩‍💻 Bella KANMO
+💼 Aspiring Machine Learning Engineer
+📍 Yaoundé, Cameroun
+
 # More...
 
 I'll be grateful for each suggestion, comment, star etc.
 
-Thanks
+Thanks.
